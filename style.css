@@ -1,0 +1,11 @@
+.paragraf{
+    text-align: center;
+    font-style: oblique;
+    font-size: large;
+    text-decoration: underline;
+}
+.naslov{
+    text-align: center;
+    color: blue;
+    background-color: coral;
+}
